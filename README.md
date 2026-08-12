@@ -96,6 +96,4 @@ python src/predict.py --input data/sample_input.csv
 ## Author
 Poonam Baruah
 
-## Author
 
-Poonam
