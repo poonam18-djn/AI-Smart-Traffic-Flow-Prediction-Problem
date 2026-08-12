@@ -72,9 +72,6 @@ python src/train.py
 # Example: generate predictions
 python src/predict.py --input data/sample_input.csv
 ```
-
-*(Update the commands above to match your actual scripts/entry points.)*
-
 ## Tech Stack
 
 - **Python** — Core language
@@ -83,8 +80,11 @@ python src/predict.py --input data/sample_input.csv
 - **Jupyter Notebook** — Experimentation and analysis
 
 ## Results
-
-*(Add key metrics, charts, or sample forecasts here once finalized.)*
+<img width="401" height="211" alt="Screenshot 2026-08-12 105734" src="https://github.com/user-attachments/assets/1c4b2511-ebf0-48ac-9ffe-87834b3f789a" />
+<img width="803" height="408" alt="Screenshot 2026-08-12 105340" src="https://github.com/user-attachments/assets/9400dfaa-a7b1-4197-85f0-ca6ef47c78e9" />
+<img width="839" height="341" alt="Screenshot 2026-08-12 110106" src="https://github.com/user-attachments/assets/7f6199f4-efe2-45ed-a769-e5f207787427" />
+<img width="434" height="235" alt="Screenshot 2026-08-12 105917" src="https://github.com/user-attachments/assets/8f4d0067-b875-44a3-8f42-6a135447b8f1" />
+<img width="438" height="210" alt="Screenshot 2026-08-12 110221" src="https://github.com/user-attachments/assets/12966084-c7a3-43c5-ae14-6a47d917891f" />
 
 ## Future Work
 
